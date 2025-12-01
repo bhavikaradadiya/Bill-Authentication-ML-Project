@@ -133,9 +133,13 @@ colab notebook
 ## 📚 References
 
 Kassambara, Alboukadel. Machine learning essentials: Practical guide in R. Sthda, 2018.
+
 Dowd, P.A., 2023. Accuracy and Precision. In Encyclopedia of Mathematical Geosciences (pp. 1-4). Cham: Springer International Publishing
+
 Hand, D.J., Christen, P. & Kirielle, N. F*: an interpretable transformation of the F-measure. Mach Learn 110, 451–456 (2021). https://doi.org/10.1007/s10994-021-05964-1
+
 Karimi, Z., 2021. Confusion Matrix. Encycl. Mach. Learn. Data Min., no. October, 260.
+
 Aggarwal, C.C. and Reddy, C.K., 2014. Data clustering. Algorithms and applications. Chapman Hall/CRC Data mining and Knowledge Discovery series, Londra.
 
 
