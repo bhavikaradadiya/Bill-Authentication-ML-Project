@@ -130,7 +130,7 @@ pip install -r requirements.txt
 
 colab notebook
 
-## This project was developed in Google Colab.
+### This project was developed in Google Colab.
 
 ## 📚 References
 
