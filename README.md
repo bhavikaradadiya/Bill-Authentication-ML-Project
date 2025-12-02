@@ -130,6 +130,8 @@ pip install -r requirements.txt
 
 colab notebook
 
+## This project was developed in Google Colab.
+
 ## 📚 References
 
 Kassambara, Alboukadel. Machine learning essentials: Practical guide in R. Sthda, 2018.
